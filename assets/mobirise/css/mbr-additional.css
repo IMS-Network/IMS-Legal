@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'HE 1';
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'HE 2';
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'HE 5';
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'HE 3';
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'HE 4';
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -595,7 +595,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'HE 5';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -609,7 +609,7 @@ a:hover {
   border-color: #000000 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'HE 5';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -3214,20 +3214,6 @@ a {
 }
 .cid-te8QqIDeqt .mbr-section-subtitle {
   color: #ffffff;
-}
-.cid-te8QqIT5KN {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #000000;
-}
-.cid-te8QqIT5KN .line {
-  background-color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-te8QqIT5KN .mbr-text {
-  color: #ff0303;
 }
 .cid-te8QqJ2sCX {
   padding-top: 5rem;
