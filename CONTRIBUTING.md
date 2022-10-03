@@ -1,0 +1,2 @@
+# Welcome To IMS - Legal Contributing Guide
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [legal.ims-network.net](https://legal.ims-network.net).
