@@ -1,5 +1,27 @@
-# Update v1.4 Patch Tow
-- Remved Scroll Animation Indicator
+# Update v1.4 Patch Three
+
+- Fixed Urdu Languge Trunsltion https://github.com/IMS-Network/IMS-Legal/issues/3
+- Added Add Bloker Check https://github.com/IMS-Network/IMS-Legal/issues/2
+- Fixed Background When Switching Languages
+- Added A New Page
+- New Home Page Layout
+- New PHP Subbmtion Froum Function
+- PHP SendMail Support
+- Mailto Link Support
+- New Scrolling Animations
+- Fixed Links
+- Fixed sitemap.xml
+- Fixed robots.txt
+- Better SEO - More Improvements Coming
+- Added Cloudflare Captcha Support
+- Added More Trunsltion Langs
+- Fixed Englsish Trunsltion (Now GB and EN are separated)
+- Fixed ~1000 Typos 
+
+
+# Update v1.4 Patch Two
+
+- Removed Scroll Animation Indicator
 - Chaged All Pages CSS loding strcture
 - Nav Bar Fixed When Opening On Mobile
 - Nav Bar Icon Fix
@@ -11,6 +33,7 @@
 - Add Analytics Code Script To All Pages
 
 # Update v1.4 Patch One
+
 - Added Scroll Animation Indicator
 - Added Team Showcase
 - Added Full Icons Suport Across Website
@@ -27,6 +50,7 @@
 
 
 # Update v1.0
+
 - Updating all CSS Strcture 
 - 10 New Elements For Pages
 - 15 New Pages Added
