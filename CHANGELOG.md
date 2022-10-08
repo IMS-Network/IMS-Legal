@@ -1,7 +1,11 @@
+# Update v1.4 Patch Three HOT FIX
+- Removed Ad Blocker Check ⛔
+
+
 # Update v1.4 Patch Three
 
 - Fixed Urdu Languge Trunsltion https://github.com/IMS-Network/IMS-Legal/issues/3
-- Added Add Bloker Check https://github.com/IMS-Network/IMS-Legal/issues/2
+- Added Ad Blocker Check https://github.com/IMS-Network/IMS-Legal/issues/2
 - Fixed Background When Switching Languages
 - Added A New Page
 - New Home Page Layout
