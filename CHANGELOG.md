@@ -1,6 +1,17 @@
-# Update v1.4 Patch Three HOT FIX
-- Removed Ad Blocker Check ⛔
+# Update v1.4 Release 🎉
 
+- New CSS Home Stacture
+- Added Cloudflare’s smart CAPTCHA Website Portaction
+- New Pages
+- Updated CSS structure on 10 Pages 
+- HTML Code Cleanup
+- Improved images CDN
+- Fixed 404 page
+- Fixed https://github.com/IMS-Network/IMS-Legal/issues/3
+
+# Update v1.4 Patch Three HOT FIX
+
+- Removed Ad Blocker Check ⛔
 
 # Update v1.4 Patch Three
 

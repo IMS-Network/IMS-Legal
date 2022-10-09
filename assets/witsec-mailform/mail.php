@@ -29,9 +29,9 @@ $autorespondSubjectPrefix = "Message From IMS - Legal 🧾";			// Autorespond Fo
 $autorespondSubject = "";						// Autorespond Custom Subject
 $autorespondTemplate = "Hi {name},<br><br>You Have Contacted Our Legal Department <br>We'll get back to you as soon as we can.<br>Here's the information you sent us:<br><br>{formdata}<br><br>---<br>Have a nice day, IMS - Legal team.<br>Date: {date}";					// Autorespond Template
 $rcp = ("1" == "1" ? true : false);						// Use reCAPTCHA
-$rcpVersion = "2";								// reCAPTCHA Version
+$rcpVersion = "captcha";								// reCAPTCHA Version
 $rcpScore = "0.5";									// reCAPTCHA Score
-$rcpSecret = "0x4AAAAAAAAlVm2W8j9S_hHubQdrePnTNLU";								// reCAPTCHA Secret Key
+$rcpSecret = "";								// reCAPTCHA Secret Key
 $smtp = ("0" == "1" ? true : false);							// Use SMTP
 $smtpDebug = ("0" == "1" ? 3 : 0);						// SMTP Debug
 $smtpHost = "";											// SMTP Host
