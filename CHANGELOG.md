@@ -1,7 +1,15 @@
+# Update v1.5
+- Fix CSS
+- HTML errors
+- Updated [LICENSE](LICENSE.md)
+- Fixed Nav Bar
+- Added New Footer
+- SEO improvements
+
 # Update v1.4 Release 🎉
 
-- New CSS Home Stacture
-- Added Cloudflare’s smart CAPTCHA Website Portaction
+- New CSS Home Structure
+- Added Cloudflare’s smart CAPTCHA Website Protection
 - New Pages
 - Updated CSS structure on 10 Pages 
 - HTML Code Cleanup
@@ -9,18 +17,18 @@
 - Fixed 404 page
 - Fixed https://github.com/IMS-Network/IMS-Legal/issues/3
 
-# Update v1.4 Patch Three HOT FIX
+# Update v1.4 Patch Three HOTFIX
 
 - Removed Ad Blocker Check ⛔
 
 # Update v1.4 Patch Three
 
-- Fixed Urdu Languge Trunsltion https://github.com/IMS-Network/IMS-Legal/issues/3
+- Fixed Urdu Language Translation https://github.com/IMS-Network/IMS-Legal/issues/3
 - Added Ad Blocker Check https://github.com/IMS-Network/IMS-Legal/issues/2
 - Fixed Background When Switching Languages
 - Added A New Page
 - New Home Page Layout
-- New PHP Subbmtion Froum Function
+- New PHP Subbmtion Forum Function
 - PHP SendMail Support
 - Mailto Link Support
 - New Scrolling Animations
@@ -29,15 +37,15 @@
 - Fixed robots.txt
 - Better SEO - More Improvements Coming
 - Added Cloudflare Captcha Support
-- Added More Trunsltion Langs
-- Fixed Englsish Trunsltion (Now GB and EN are separated)
+- Added More Translation Langs
+- Fixed English Translation (Now GB and EN are separated)
 - Fixed ~1000 Typos 
 
 
 # Update v1.4 Patch Two
 
 - Removed Scroll Animation Indicator
-- Chaged All Pages CSS loding strcture
+- Changed All Pages CSS loading structure
 - Nav Bar Fixed When Opening On Mobile
 - Nav Bar Icon Fix
 - 50 New HTML & CSS Components
@@ -51,7 +59,7 @@
 
 - Added Scroll Animation Indicator
 - Added Team Showcase
-- Added Full Icons Suport Across Website
+- Added Full Icons Support Across the Website
 - Fixed GDPR Dictation
 - Cookie Handling Improvements
 - Code CleanUp
@@ -66,15 +74,15 @@
 
 # Update v1.0
 
-- Updating all CSS Strcture 
+- Updating all CSS Structure 
 - 10 New Elements For Pages
 - 15 New Pages Added
 - 6000 Typos Fixed
 - Fixed All Links
-- New Footer & Updated Infomraion
+- New Footer & Updated Information
 - Icons In The Nav Bar
 - Support For Tablets
-- Support For Dynamic Contant
+- Support For Dynamic Content
 - Support For Dynamic Scroll Animations
 - Added Info Page With JS Animation Components
 - Added New CDN Content Delivery Optimization
@@ -85,7 +93,7 @@
 - Cash Handling Improvements
 
 # Update v0.8
-- Fixed Contant Loding On CDN
+- Fixed Content Loading On CDN
 
 # Update v0.7
 - Fixed Typos
@@ -110,7 +118,7 @@
 # Update v0.2
 - Added site-map.xml
 - Cookies Banner
-- Fixed Typos In Contant
+- Fixed Typos In content
 
 # Update v0.1
 - Added First Page's 
