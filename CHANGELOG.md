@@ -1,3 +1,11 @@
+# Update v1.6
+- Fix Issues 
+- New Page
+- Updated SEO on Some Pages
+- New Updated Page privacy-policy.html
+- Updated Information Clarity
+- Added Workflows in order to Test for public javascript library vulnerabilities 
+
 # Update v1.5
 - Fix CSS
 - HTML errors

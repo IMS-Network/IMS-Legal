@@ -27,9 +27,6 @@
 		<loc>https://leagl.ims-network.net/cookies.html</loc>
 	</url>
 	<url>
-		<loc>https://leagl.ims-network.net/GDRR.html</loc>
-	</url>
-	<url>
 		<loc>https://leagl.ims-network.net/CCPA.html</loc>
 	</url>
 	<url>
@@ -103,5 +100,11 @@
 	</url>
 	<url>
 		<loc>https://leagl.ims-network.net/TTDSG.html</loc>
+	</url>
+	<url>
+		<loc>https://leagl.ims-network.net/parents.html</loc>
+	</url>
+	<url>
+		<loc>https://leagl.ims-network.net/GDPR.html</loc>
 	</url>
 </urlset>
