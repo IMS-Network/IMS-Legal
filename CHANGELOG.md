@@ -1,3 +1,6 @@
+# Update v1.7.1
+- Fix Colors For SEO Discord
+
 # Update v1.7 SEO FIX
 - SEO Fix
 - Nav Bar Fix
