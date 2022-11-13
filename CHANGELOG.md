@@ -1,3 +1,7 @@
+# Update v1.7 SEO FIX
+- SEO Fix
+- Nav Bar Fix
+
 # Update v1.7
 - New SEO For All The Webstie
 - New Updated Information On Some Pages
