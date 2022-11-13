@@ -1,3 +1,6 @@
+# Update v1.7.2
+- Fix Colors For SEO Discord
+
 # Update v1.7.1
 - Fix Colors For SEO Discord
 
