@@ -57,9 +57,6 @@
 		<loc>https://leagl.ims-network.net/management-policy-and-responsibility.html</loc>
 	</url>
 	<url>
-		<loc>https://leagl.ims-network.net/about.html</loc>
-	</url>
-	<url>
 		<loc>https://leagl.ims-network.net/content-creator-policy.html</loc>
 	</url>
 	<url>
@@ -106,5 +103,8 @@
 	</url>
 	<url>
 		<loc>https://leagl.ims-network.net/GDPR.html</loc>
+	</url>
+	<url>
+		<loc>https://leagl.ims-network.net/security.html</loc>
 	</url>
 </urlset>
