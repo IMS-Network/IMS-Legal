@@ -1,3 +1,11 @@
+# Update v1.7.5
+- Revert Blacklist
+- Fix DMCA Page
+- Revert SEO
+- Fix Branding Page
+- Fix 404 Page
+- Fix AMP Pages
+
 # Update v1.7.4
 - Fix SEO
 
