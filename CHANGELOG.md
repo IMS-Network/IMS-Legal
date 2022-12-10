@@ -1,3 +1,6 @@
+# Update v1.7.4
+- Fix SEO
+
 # Update v1.7.3
 - Update BlackList
 
