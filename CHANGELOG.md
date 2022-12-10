@@ -1,3 +1,9 @@
+# Update v1.7.6
+- Hot Fix For Blacklist
+- Improved SEO on Blacklist
+- Update Pages 
+- Fix the Cloudflare DNS link
+
 # Update v1.7.5
 - Revert Blacklist
 - Fix DMCA Page
