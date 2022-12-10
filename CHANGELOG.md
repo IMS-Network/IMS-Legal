@@ -1,3 +1,6 @@
+# Update v1.7.3
+- Update BlackList
+
 # Update v1.7.2
 - Fix Colors For SEO Discord
 
